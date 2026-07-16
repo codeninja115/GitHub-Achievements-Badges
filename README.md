@@ -2,8 +2,6 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/codeninja115/GitHub-Achievements-Badges?style=social)
 
-⭐ Star this repo if you want the **complete guide to GitHub achievements, profile badges, and badge tiers**.  
-
 This repository is the **ultimate resource for all GitHub achievements** — including obtainable badges, in-testing badges, historical badges, tiers, skin-tone variants, and step-by-step instructions on how to earn them.  
 
 It’s perfect for developers who want to **track their GitHub progress**, **earn badges**, or **explore the full set of GitHub profile achievements**.  
